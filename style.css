@@ -1,0 +1,15 @@
+.jumbotron {
+  background: url("https://images-na.ssl-images-amazon.com/images/I/51bamFT2Y3L._SX425_.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#lorem {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+img {
+  height: 200px;
+  max-width: 100%;
+}
